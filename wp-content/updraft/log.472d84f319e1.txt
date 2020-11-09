@@ -1,0 +1,724 @@
+0000.001 (0) Opened log file at time: Fri, 06 Nov 2020 14:01:00 +0000 on http://localhost/wordpressTeamAIv2
+0000.021 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.29 WP: 5.5.3 PHP: 7.4.6 (apache2handler, Windows NT DESKTOP-F6U9BMQ 10.0 build 19041 (Windows 10) AMD64) MySQL: 10.4.11-MariaDB WPLANG: en_US Server: Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.4.6 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 61.8M | 64M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.053 (0) Free space on disk containing Updraft's temporary directory: 83308.3 MB
+0000.089 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB: 1 (schedule: weekly)
+0000.208 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.340 (0) Set semaphore last lock (fd) time to 2020-11-06 14:01:01
+0000.424 (0) Semaphore lock (fd) complete
+0000.488 (0) Backup run: resumption=0, nonce=472d84f319e1, file_nonce=472d84f319e1 begun at=1604671260 (1s ago), job type=backup
+0000.527 (0) Scheduling a resumption (1) after 300 seconds (1604671561) in case this run gets aborted
+0000.621 (0) Checking if we have a zip executable available
+0000.647 (0) Creation of backups of directories: beginning
+0000.703 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0006.945 (0) Total entities for the zip file: 1194 directories, 5281 files (0 skipped as non-modified), 97.9 MB
+0007.058 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0009.368 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.5 MB, 96 (97) files added so far); re-opening (prior size: 208.1 KB)
+0010.452 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 100 files added (on-disk size: 1119.7 KB)
+0012.340 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.6 MB, 43 (140) files added so far); re-opening (prior size: 1119.7 KB)
+0014.569 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 200 files added (on-disk size: 2367.5 KB)
+0015.352 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.9 MB, 79 (219) files added so far); re-opening (prior size: 2367.5 KB)
+0016.985 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 300 files added (on-disk size: 5007.4 KB)
+0017.438 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 400 files added (on-disk size: 5007.4 KB)
+0017.795 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 500 files added (on-disk size: 5007.4 KB)
+0019.362 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.7 MB, 379 (598) files added so far); re-opening (prior size: 5007.4 KB)
+0020.620 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 600 files added (on-disk size: 6188 KB)
+0022.385 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 700 files added (on-disk size: 6188 KB)
+0023.085 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 800 files added (on-disk size: 6188 KB)
+0023.359 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.2 MB, 248 (846) files added so far); re-opening (prior size: 6188 KB)
+0024.293 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 900 files added (on-disk size: 7003.9 KB)
+0025.487 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 1000 files added (on-disk size: 7003.9 KB)
+0026.350 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 190 (1036) files added so far); re-opening (prior size: 7003.9 KB)
+0027.915 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 1100 files added (on-disk size: 7284.7 KB)
+0029.230 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 1200 files added (on-disk size: 7284.7 KB)
+0029.349 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.9 MB, 179 (1215) files added so far); re-opening (prior size: 7284.7 KB)
+0031.461 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 1300 files added (on-disk size: 8143.3 KB)
+0032.253 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 1400 files added (on-disk size: 8143.3 KB)
+0032.343 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.3 MB, 196 (1411) files added so far); re-opening (prior size: 8143.3 KB)
+0035.442 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 1500 files added (on-disk size: 9527.9 KB)
+0036.348 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.3 MB, 146 (1557) files added so far); re-opening (prior size: 9527.9 KB)
+0038.865 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 1600 files added (on-disk size: 10575.6 KB)
+0039.703 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 1700 files added (on-disk size: 10575.6 KB)
+0040.340 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (7.5 MB, 209 (1766) files added so far); re-opening (prior size: 10575.6 KB)
+0043.518 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 1800 files added (on-disk size: 13099.1 KB)
+0044.738 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 1900 files added (on-disk size: 13099.1 KB)
+0045.354 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.7 MB, 177 (1943) files added so far); re-opening (prior size: 13099.1 KB)
+0047.265 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 2000 files added (on-disk size: 13553.2 KB)
+0048.348 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.4 MB, 156 (2099) files added so far); re-opening (prior size: 13553.2 KB)
+0049.490 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 2100 files added (on-disk size: 14683.5 KB)
+0050.431 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 2200 files added (on-disk size: 14683.5 KB)
+0052.364 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5 MB, 200 (2299) files added so far); re-opening (prior size: 14683.5 KB)
+0053.446 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 2300 files added (on-disk size: 15978.5 KB)
+0054.795 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 2400 files added (on-disk size: 15978.5 KB)
+0056.125 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 2500 files added (on-disk size: 15978.5 KB)
+0056.345 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (8 MB, 273 (2572) files added so far); re-opening (prior size: 15978.5 KB)
+0059.366 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 2600 files added (on-disk size: 18210.4 KB)
+0061.341 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.9 MB, 97 (2669) files added so far); re-opening (prior size: 18210.4 KB)
+0062.975 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 2700 files added (on-disk size: 18665.9 KB)
+0065.115 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 2800 files added (on-disk size: 18665.9 KB)
+0065.340 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (14.1 MB, 142 (2811) files added so far); re-opening (prior size: 18665.9 KB)
+0069.346 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 2900 files added (on-disk size: 22299.1 KB)
+0071.344 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.5 MB, 183 (2994) files added so far); re-opening (prior size: 22299.1 KB)
+0073.210 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 3000 files added (on-disk size: 23023.5 KB)
+0074.910 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 3100 files added (on-disk size: 23023.5 KB)
+0075.341 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 123 (3117) files added so far); re-opening (prior size: 23023.5 KB)
+0078.356 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 82 (3199) files added so far); re-opening (prior size: 23161.4 KB)
+0078.752 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 3200 files added (on-disk size: 23257.3 KB)
+0081.191 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 3300 files added (on-disk size: 23257.3 KB)
+0081.349 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 104 (3303) files added so far); re-opening (prior size: 23257.3 KB)
+0084.344 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 84 (3387) files added so far); re-opening (prior size: 23508.6 KB)
+0085.695 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 3400 files added (on-disk size: 23607.3 KB)
+0087.342 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 97 (3484) files added so far); re-opening (prior size: 23607.3 KB)
+0089.335 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 3500 files added (on-disk size: 23715 KB)
+0091.340 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 111 (3595) files added so far); re-opening (prior size: 23715 KB)
+0091.959 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 3600 files added (on-disk size: 24069.3 KB)
+0094.162 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 3700 files added (on-disk size: 24069.3 KB)
+0094.356 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 113 (3708) files added so far); re-opening (prior size: 24069.3 KB)
+0097.381 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 81 (3789) files added so far); re-opening (prior size: 24157.7 KB)
+0097.999 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 3800 files added (on-disk size: 24273 KB)
+0100.373 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 93 (3882) files added so far); re-opening (prior size: 24273 KB)
+0103.267 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 3900 files added (on-disk size: 24987.8 KB)
+0104.342 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 71 (3953) files added so far); re-opening (prior size: 24987.8 KB)
+0106.693 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 4000 files added (on-disk size: 25106.4 KB)
+0107.350 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 76 (4029) files added so far); re-opening (prior size: 25106.4 KB)
+0110.349 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 66 (4095) files added so far); re-opening (prior size: 25238.3 KB)
+0110.812 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 4100 files added (on-disk size: 25324.1 KB)
+0113.340 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 104 (4199) files added so far); re-opening (prior size: 25324.1 KB)
+0113.808 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 4200 files added (on-disk size: 25488.6 KB)
+0115.944 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 4300 files added (on-disk size: 25488.6 KB)
+0116.340 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 117 (4316) files added so far); re-opening (prior size: 25488.6 KB)
+0119.472 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 4400 files added (on-disk size: 25708 KB)
+0120.350 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.2 MB, 127 (4443) files added so far); re-opening (prior size: 25708 KB)
+0122.700 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 4500 files added (on-disk size: 26046.6 KB)
+0123.346 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 95 (4538) files added so far); re-opening (prior size: 26046.6 KB)
+0126.103 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 4600 files added (on-disk size: 26340.7 KB)
+0126.340 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.5 MB, 125 (4663) files added so far); re-opening (prior size: 26340.7 KB)
+0128.830 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 4700 files added (on-disk size: 28314.2 KB)
+0131.008 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 4800 files added (on-disk size: 28314.2 KB)
+0131.341 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.1 MB, 192 (4855) files added so far); re-opening (prior size: 28314.2 KB)
+0134.051 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 4900 files added (on-disk size: 30563.8 KB)
+0135.348 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 98 (4953) files added so far); re-opening (prior size: 30563.8 KB)
+0136.815 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 5000 files added (on-disk size: 30806.7 KB)
+0138.350 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 134 (5087) files added so far); re-opening (prior size: 30806.7 KB)
+0140.327 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 5100 files added (on-disk size: 30987.3 KB)
+0142.307 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip.tmp: 5200 files added (on-disk size: 30987.3 KB)
+0142.340 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.9 MB, 114 (5201) files added so far); re-opening (prior size: 30987.3 KB)
+0146.742 (0) Created plugins zip (0) - 31549.7 KB in 146 s (216.1 KB/s) (sha1: f74efe4cbbe12dec8276ea3dd5a4326417b2d6e7, sha256: 530d1da705056fadf4b60f66516905da67f127b991698755c72cf3556023d7c1)
+0146.808 (0) Beginning creation of dump of themes (split every: 400 MB)
+0148.403 (0) Total entities for the zip file: 249 directories, 791 files (0 skipped as non-modified), 17.4 MB
+0149.348 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.9 MB, 29 (29) files added so far); re-opening (prior size: 0 KB)
+0150.625 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-themes.zip.tmp: 100 files added (on-disk size: 1314.9 KB)
+0152.358 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3 MB, 161 (190) files added so far); re-opening (prior size: 1314.9 KB)
+0153.762 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-themes.zip.tmp: 200 files added (on-disk size: 3292.7 KB)
+0154.562 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-themes.zip.tmp: 300 files added (on-disk size: 3292.7 KB)
+0155.195 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-themes.zip.tmp: 400 files added (on-disk size: 3292.7 KB)
+0156.346 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.5 MB, 288 (478) files added so far); re-opening (prior size: 3292.7 KB)
+0158.582 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-themes.zip.tmp: 500 files added (on-disk size: 8147.7 KB)
+0160.356 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.6 MB, 101 (579) files added so far); re-opening (prior size: 8147.7 KB)
+0161.748 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-themes.zip.tmp: 600 files added (on-disk size: 9022.9 KB)
+0163.396 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.8 MB, 68 (647) files added so far); re-opening (prior size: 9022.9 KB)
+0166.340 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.5 MB, 48 (695) files added so far); re-opening (prior size: 10146.2 KB)
+0167.006 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-themes.zip.tmp: 700 files added (on-disk size: 10885.9 KB)
+0169.376 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 76 (771) files added so far); re-opening (prior size: 10885.9 KB)
+0171.282 (0) Created themes zip (0) - 11455.6 KB in 24.4 s (468.6 KB/s) (sha1: 50778060a2192ffeead43acab316619363e95ea4, sha256: 60733897f6bfa992feac3d0e3344522e12b0c14a247af394d55053d3da6831cf)
+0171.505 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0171.544 (0) Looking for candidates to backup in: C:\xampp\htdocs\wordpressTeamAIv2/wp-content/uploads
+0171.637 (0) finding files: 2020: adding to list (1)
+0171.767 (0) finding files: elementor: adding to list (2)
+0171.979 (0) finding files: essential-addons-elementor: adding to list (3)
+0172.066 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0172.257 (0) Total entities for the zip file: 6 directories, 191 files (0 skipped as non-modified), 19.9 MB
+0173.250 (0) Zip: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0174.527 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (13.4 MB, 166 (166) files added so far); re-opening (prior size: 0 KB)
+0180.849 (0) Created uploads zip (0) - 12138.9 KB in 8.7 s (1392.1 KB/s) (sha1: d7cebb2e13bac2491a4520786d3fa56caeaf7345, sha256: 56a9fa428d0aa578b112df8d34f4c90ebd7576d83043dea17f94664dec928f5c)
+0180.883 (0) Beginning backup of other directories found in the content directory (index: 0)
+0180.896 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0180.920 (0) Looking for candidates to backup in: C:\xampp\htdocs\wordpressTeamAIv2/wp-content
+0180.933 (0) finding files: index.php: adding to list (1)
+0180.952 (0) finding files: plugins: skipping: this is the plugins directory
+0180.965 (0) finding files: themes: skipping: this is the themes directory
+0180.978 (0) finding files: updraft: skipping: this is the updraft directory
+0181.002 (0) finding files: upgrade: skipping: excluded by options
+0181.015 (0) finding files: uploads: skipping: this is the uploads directory
+0181.102 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0181.188 (0) Created others zip (0) - 0.1 KB in 0.1 s (1.3 KB/s) (sha1: 8851e09c67febcee26ac730b2d50af1c369dff46, sha256: 05b6c7eeadfcffcb868b18923e310a0e693f5f40dd451a03a48dafb3cd3e337d)
+0181.299 (0) Saving backup status to database (elements: 8)
+0181.343 (0) Beginning creation of database dump (WordPress DB)
+0181.371 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0181.707 (0) Table wp_options: Total expected rows (approximate): 334
+0182.475 (0) Table wp_options: Rows added in this batch (start page: 0; next: finished): 335 in 0.62 seconds
+0182.528 (0) Table wp_options: finishing file (backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_options.table.gz - 349.8 KB)
+0182.645 (0) Table wp_users: Total expected rows (approximate): 0
+0182.722 (0) Table wp_users: Rows added in this batch (start page: 0; next: finished): 1 in 0.04 seconds
+0182.751 (0) Table wp_users: finishing file (backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_users.table.gz - 0.6 KB)
+0182.833 (0) Table wp_usermeta: Total expected rows (approximate): 26
+0183.072 (0) Table wp_usermeta: Rows added in this batch (start page: 0; next: finished): 26 in 0.22 seconds
+0183.144 (0) Table wp_usermeta: finishing file (backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_usermeta.table.gz - 1.5 KB)
+0183.209 (0) Table wp_actionscheduler_actions: Total expected rows (approximate): 47
+0183.272 (0) Table wp_actionscheduler_actions: Rows added in this batch (start page: 0; next: finished): 48 in 0.04 seconds
+0183.315 (0) Table wp_actionscheduler_actions: finishing file (backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_actionscheduler_actions.table.gz - 2 KB)
+0183.405 (0) Table wp_actionscheduler_claims: Total expected rows (approximate): 0
+0183.553 (0) Table wp_actionscheduler_claims: Rows added in this batch (start page: 0; next: finished): 0 in 0.06 seconds
+0183.655 (0) Table wp_actionscheduler_claims: finishing file (backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_actionscheduler_claims.table.gz - 0.3 KB)
+0183.820 (0) Table wp_actionscheduler_groups: Total expected rows (approximate): 2
+0183.932 (0) Table wp_actionscheduler_groups: Rows added in this batch (start page: 0; next: finished): 3 in 0.06 seconds
+0183.967 (0) Table wp_actionscheduler_groups: finishing file (backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_actionscheduler_groups.table.gz - 0.4 KB)
+0184.551 (0) Table wp_actionscheduler_logs: Total expected rows (approximate): 127
+0184.697 (0) Table wp_actionscheduler_logs: Rows added in this batch (start page: 0; next: finished): 140 in 0.02 seconds
+0184.717 (0) Table wp_actionscheduler_logs: finishing file (backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_actionscheduler_logs.table.gz - 1.9 KB)
+0184.843 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0184.995 (0) Table wp_commentmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.08 seconds
+0185.226 (0) Table wp_commentmeta: finishing file (backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0185.344 (0) Table wp_comments: Total expected rows (approximate): 0
+0185.461 (0) Table wp_comments: Rows added in this batch (start page: 0; next: finished): 1 in 0.07 seconds
+0185.501 (0) Table wp_comments: finishing file (backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_comments.table.gz - 0.7 KB)
+0185.590 (0) Table wp_links: Total expected rows (approximate): 0
+0185.633 (0) Table wp_links: Rows added in this batch (start page: 0; next: finished): 0 in 0.02 seconds
+0185.692 (0) Table wp_links: finishing file (backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_links.table.gz - 0.4 KB)
+0185.833 (0) Table wp_postmeta: Total expected rows (approximate): 2962
+0189.539 (0) Table wp_postmeta: Rows added in this batch (start page: 0; next: finished): 3436 in 3.63 seconds
+0189.603 (0) Table wp_postmeta: finishing file (backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_postmeta.table.gz - 1342.2 KB)
+0189.735 (0) Table wp_posts: Total expected rows (approximate): 404
+0190.081 (0) Table wp_posts: Rows added in this batch (start page: 0; next: finished): 456 in 0.29 seconds
+0190.141 (0) Table wp_posts: finishing file (backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_posts.table.gz - 112.1 KB)
+0190.306 (0) Table wp_term_relationships: Total expected rows (approximate): 128
+0190.369 (0) Table wp_term_relationships: Rows added in this batch (start page: 0; next: finished): 137 in 0.05 seconds
+0190.634 (0) Table wp_term_relationships: finishing file (backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_term_relationships.table.gz - 0.7 KB)
+0190.836 (0) Table wp_term_taxonomy: Total expected rows (approximate): 7
+0190.984 (0) Table wp_term_taxonomy: Rows added in this batch (start page: 0; next: finished): 8 in 0.09 seconds
+0191.042 (0) Table wp_term_taxonomy: finishing file (backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_term_taxonomy.table.gz - 0.5 KB)
+0191.186 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0191.293 (0) Table wp_termmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.07 seconds
+0191.372 (0) Table wp_termmeta: finishing file (backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_termmeta.table.gz - 0.4 KB)
+0191.527 (0) Table wp_terms: Total expected rows (approximate): 6
+0191.904 (0) Table wp_terms: Rows added in this batch (start page: 0; next: finished): 8 in 0.29 seconds
+0191.956 (0) Table wp_terms: finishing file (backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_terms.table.gz - 0.5 KB)
+0192.187 (0) Table wp_revslider_css: Total expected rows (approximate): 109
+0192.321 (0) Table wp_revslider_css: Rows added in this batch (start page: 0; next: finished): 109 in 0.08 seconds
+0192.363 (0) Table wp_revslider_css: finishing file (backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_revslider_css.table.gz - 4.8 KB)
+0192.477 (0) Table wp_revslider_css_bkp: Total expected rows (approximate): 47
+0192.604 (0) Table wp_revslider_css_bkp: Rows added in this batch (start page: 0; next: finished): 47 in 0.06 seconds
+0192.694 (0) Table wp_revslider_css_bkp: finishing file (backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_revslider_css_bkp.table.gz - 1.8 KB)
+0192.790 (0) Table wp_revslider_layer_animations: Total expected rows (approximate): 0
+0192.914 (0) Table wp_revslider_layer_animations: Rows added in this batch (start page: 0; next: finished): 0 in 0.04 seconds
+0192.947 (0) Table wp_revslider_layer_animations: finishing file (backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_revslider_layer_animations.table.gz - 0.3 KB)
+0193.082 (0) Table wp_revslider_layer_animations_bkp: Total expected rows (approximate): 0
+0193.120 (0) Table wp_revslider_layer_animations_bkp: Rows added in this batch (start page: 0; next: finished): 0 in 0.02 seconds
+0193.166 (0) Table wp_revslider_layer_animations_bkp: finishing file (backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_revslider_layer_animations_bkp.table.gz - 0.3 KB)
+0193.265 (0) Table wp_revslider_navigations: Total expected rows (approximate): 0
+0193.322 (0) Table wp_revslider_navigations: Rows added in this batch (start page: 0; next: finished): 0 in 0.04 seconds
+0193.377 (0) Table wp_revslider_navigations: finishing file (backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_revslider_navigations.table.gz - 0.3 KB)
+0193.435 (0) Table wp_revslider_navigations_bkp: Total expected rows (approximate): 0
+0193.492 (0) Table wp_revslider_navigations_bkp: Rows added in this batch (start page: 0; next: finished): 0 in 0.04 seconds
+0193.524 (0) Table wp_revslider_navigations_bkp: finishing file (backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_revslider_navigations_bkp.table.gz - 0.3 KB)
+0194.143 (0) Table wp_revslider_sliders: Total expected rows (approximate): 0
+0194.224 (0) Table wp_revslider_sliders: Rows added in this batch (start page: 0; next: finished): 1 in 0.04 seconds
+0194.243 (0) Table wp_revslider_sliders: finishing file (backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_revslider_sliders.table.gz - 0.4 KB)
+0194.320 (0) Table wp_revslider_sliders_bkp: Total expected rows (approximate): 0
+0194.378 (0) Table wp_revslider_sliders_bkp: Rows added in this batch (start page: 0; next: finished): 0 in 0.04 seconds
+0194.475 (0) Table wp_revslider_sliders_bkp: finishing file (backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_revslider_sliders_bkp.table.gz - 0.3 KB)
+0194.609 (0) Table wp_revslider_slides: Total expected rows (approximate): 0
+0194.651 (0) Table wp_revslider_slides: Rows added in this batch (start page: 0; next: finished): 1 in 0.02 seconds
+0194.676 (0) Table wp_revslider_slides: finishing file (backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_revslider_slides.table.gz - 0.4 KB)
+0194.805 (0) Table wp_revslider_slides_bkp: Total expected rows (approximate): 0
+0194.851 (0) Table wp_revslider_slides_bkp: Rows added in this batch (start page: 0; next: finished): 0 in 0.03 seconds
+0194.956 (0) Table wp_revslider_slides_bkp: finishing file (backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_revslider_slides_bkp.table.gz - 0.3 KB)
+0195.116 (0) Table wp_revslider_static_slides: Total expected rows (approximate): 0
+0195.166 (0) Table wp_revslider_static_slides: Rows added in this batch (start page: 0; next: finished): 1 in 0.02 seconds
+0195.288 (0) Table wp_revslider_static_slides: finishing file (backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_revslider_static_slides.table.gz - 0.4 KB)
+0195.498 (0) Table wp_revslider_static_slides_bkp: Total expected rows (approximate): 0
+0195.626 (0) Table wp_revslider_static_slides_bkp: Rows added in this batch (start page: 0; next: finished): 0 in 0.06 seconds
+0195.714 (0) Table wp_revslider_static_slides_bkp: finishing file (backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_revslider_static_slides_bkp.table.gz - 0.3 KB)
+0195.995 (0) Table wp_wpforms_tasks_meta: Total expected rows (approximate): 17
+0196.264 (0) Table wp_wpforms_tasks_meta: Rows added in this batch (start page: 0; next: finished): 17 in 0.04 seconds
+0196.390 (0) Table wp_wpforms_tasks_meta: finishing file (backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_wpforms_tasks_meta.table.gz - 0.6 KB)
+0196.547 (0) Table wp_wpmailsmtp_tasks_meta: Total expected rows (approximate): 3
+0196.664 (0) Table wp_wpmailsmtp_tasks_meta: Rows added in this batch (start page: 0; next: finished): 4 in 0.04 seconds
+0196.692 (0) Table wp_wpmailsmtp_tasks_meta: finishing file (backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_wpmailsmtp_tasks_meta.table.gz - 0.4 KB)
+0196.723 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_options.table.gz (1/30): adding to final database dump
+0196.825 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_users.table.gz (2/30): adding to final database dump
+0196.933 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_usermeta.table.gz (3/30): adding to final database dump
+0197.051 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_actionscheduler_actions.table.gz (4/30): adding to final database dump
+0197.095 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_actionscheduler_claims.table.gz (5/30): adding to final database dump
+0197.123 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_actionscheduler_groups.table.gz (6/30): adding to final database dump
+0197.155 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_actionscheduler_logs.table.gz (7/30): adding to final database dump
+0197.209 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_commentmeta.table.gz (8/30): adding to final database dump
+0197.228 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_comments.table.gz (9/30): adding to final database dump
+0197.253 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_links.table.gz (10/30): adding to final database dump
+0197.310 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_postmeta.table.gz (11/30): adding to final database dump
+0198.035 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_posts.table.gz (12/30): adding to final database dump
+0198.115 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_term_relationships.table.gz (13/30): adding to final database dump
+0198.140 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_term_taxonomy.table.gz (14/30): adding to final database dump
+0198.160 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_termmeta.table.gz (15/30): adding to final database dump
+0198.175 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_terms.table.gz (16/30): adding to final database dump
+0198.192 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_revslider_css.table.gz (17/30): adding to final database dump
+0198.229 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_revslider_css_bkp.table.gz (18/30): adding to final database dump
+0198.368 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_revslider_layer_animations.table.gz (19/30): adding to final database dump
+0198.384 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_revslider_layer_animations_bkp.table.gz (20/30): adding to final database dump
+0198.482 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_revslider_navigations.table.gz (21/30): adding to final database dump
+0198.579 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_revslider_navigations_bkp.table.gz (22/30): adding to final database dump
+0198.689 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_revslider_sliders.table.gz (23/30): adding to final database dump
+0198.727 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_revslider_sliders_bkp.table.gz (24/30): adding to final database dump
+0198.741 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_revslider_slides.table.gz (25/30): adding to final database dump
+0198.755 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_revslider_slides_bkp.table.gz (26/30): adding to final database dump
+0198.774 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_revslider_static_slides.table.gz (27/30): adding to final database dump
+0198.795 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_revslider_static_slides_bkp.table.gz (28/30): adding to final database dump
+0198.808 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_wpforms_tasks_meta.table.gz (29/30): adding to final database dump
+0198.825 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db-table-wp_wpmailsmtp_tasks_meta.table.gz (30/30): adding to final database dump
+0198.969 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db.gz: finished writing out complete database file (1784 KB)
+0199.197 (0) Total database tables backed up: 30 (backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db.gz, size: 1862633, sha1: 40c62499dc7aa3fe782319c268eaa3f743034266, sha256: a68ccbe58c77b12f7869e55afeb0b5e919c921aad67f8715e754e52c53300efb)
+0199.315 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0199.333 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0199.364 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0199.383 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-others.zip: others: This file has not yet been successfully uploaded: will queue
+0199.406 (0) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db.gz: db: This file has not yet been successfully uploaded: will queue
+0199.425 (0) Saving backup history. Total backup size: 55.6 MB
+0199.463 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0199.524 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0199.553 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-73859e436c9b60cbf18540dae757e7ba)
+0203.414 (0) Google Drive: quota usage: used=267.3 MB, total=15360 MB, available=15092.7 MB
+0203.612 (0) Google Drive: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip: Attempting to upload to Google Drive (into folder id: 1ePbYZuhy1fdn33fHUPk7J5GtN-yHkhlN)
+0205.277 (0) Googledrive chunked upload: 3.2 % uploaded (1048576)
+0205.914 (0) Googledrive chunked upload: 6.5 % uploaded (2097152)
+0266.089 (0) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\wordpressTeamAIv2\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0266.283 (0) An error condition has occurred for the first time during this job
+0266.887 (0) Google Drive: quota usage: used=267.3 MB, total=15360 MB, available=15092.7 MB
+0266.922 (0) Google Drive: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-themes.zip: Attempting to upload to Google Drive (into folder id: 1ePbYZuhy1fdn33fHUPk7J5GtN-yHkhlN)
+0268.371 (0) The scheduled resumption is within 45 seconds - will reschedule
+0268.425 (0) Rescheduling resumption 1: moving to 345 seconds from now (1604671874)
+0268.569 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 45 = 345
+0268.603 (0) Googledrive chunked upload: 8.9 % uploaded (1048576)
+0269.327 (0) Googledrive chunked upload: 17.9 % uploaded (2097152)
+0270.400 (0) Googledrive chunked upload: 26.8 % uploaded (3145728)
+0271.064 (0) Googledrive chunked upload: 35.8 % uploaded (4194304)
+0272.157 (0) Googledrive chunked upload: 44.7 % uploaded (5242880)
+0332.258 (0) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\wordpressTeamAIv2\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0332.832 (0) Google Drive: quota usage: used=267.3 MB, total=15360 MB, available=15092.7 MB
+0332.875 (0) Google Drive: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-uploads.zip: Attempting to upload to Google Drive (into folder id: 1ePbYZuhy1fdn33fHUPk7J5GtN-yHkhlN)
+0334.566 (0) The time we have been running (334.5) is approaching the resumption interval (345) - increasing resumption interval to 365
+0334.611 (0) Googledrive chunked upload: 8.4 % uploaded (1048576)
+0394.676 (0) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\wordpressTeamAIv2\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0395.849 (0) Google Drive: quota usage: used=267.3 MB, total=15360 MB, available=15092.7 MB
+0395.900 (0) Google Drive: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-others.zip: Attempting to upload to Google Drive (into folder id: 1ePbYZuhy1fdn33fHUPk7J5GtN-yHkhlN)
+0398.414 (0) The time we have been running (398.3) is approaching the resumption interval (365) - increasing resumption interval to 429
+0398.476 (0) Googledrive chunked upload: 100 % uploaded
+0398.595 (0) Google Drive: OK: Archive backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-others.zip uploaded in 2.68 seconds
+0398.642 (0) Recording as successfully uploaded: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-others.zip
+0398.670 (0) Deleting local file: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-others.zip: OK
+0399.236 (0) Google Drive: quota usage: used=267.3 MB, total=15360 MB, available=15092.7 MB
+0399.288 (0) Google Drive: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db.gz: Attempting to upload to Google Drive (into folder id: 1ePbYZuhy1fdn33fHUPk7J5GtN-yHkhlN)
+0403.929 (0) The time we have been running (403.8) is approaching the resumption interval (429) - increasing resumption interval to 434
+0404.016 (0) Googledrive chunked upload: 56.3 % uploaded (1048576)
+0406.115 (0) The time we have been running (406) is approaching the resumption interval (434) - increasing resumption interval to 437
+0406.160 (0) Googledrive chunked upload: 100 % uploaded (1048576)
+0406.208 (0) Google Drive: OK: Archive backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db.gz uploaded in 6.81 seconds
+0406.221 (0) Recording as successfully uploaded: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db.gz
+0406.447 (0) Deleting local file: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db.gz: OK
+0406.566 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=5
+0406.580 (0) Number of backup sets in history: 6; groups (db): 1
+0406.623 (0) Examining (for databases) backup set with group_id=0, nonce=472d84f319e1, datestamp=1604671260 (Nov 06 2020 14:01:00)
+0406.647 (0) This backup set is the backup set just made, so will not be deleted.
+0406.647 (0) Examining (for databases) backup set with group_id=0, nonce=9ba7a947d85e, datestamp=1604645641 (Nov 06 2020 06:54:01)
+0406.647 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0406.666 (0) Examining (for databases) backup set with group_id=0, nonce=a1ecce3f841b, datestamp=1604544200 (Nov 05 2020 02:43:20)
+0406.666 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0406.666 (0) Examining (for databases) backup set with group_id=0, nonce=2e7a755d7379, datestamp=1603666363 (Oct 25 2020 22:52:43)
+0406.666 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0406.667 (0) Examining (for databases) backup set with group_id=0, nonce=10ff99aafb98, datestamp=1603436059 (Oct 23 2020 06:54:19)
+0406.667 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0406.667 (0) Examining (for databases) backup set with group_id=0, nonce=448f1bf7a911, datestamp=1603432025 (Oct 23 2020 05:47:05)
+0406.667 (0) This backup set (1603432025) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0406.667 (0) Number of backup sets in history: 6; groups (files): 1
+0406.680 (0) Examining (for files) backup set with nonce=472d84f319e1, datestamp=1604671260 (Nov 06 2020 14:01:00)
+0406.680 (0) This backup set is the backup set just made, so will not be deleted.
+0406.693 (0) This backup set is the backup set just made, so will not be deleted.
+0406.693 (0) This backup set is the backup set just made, so will not be deleted.
+0406.694 (0) This backup set is the backup set just made, so will not be deleted.
+0406.694 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0406.707 (0) Examining (for files) backup set with nonce=9ba7a947d85e, datestamp=1604645641 (Nov 06 2020 06:54:01)
+0406.707 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0406.707 (0) Examining (for files) backup set with nonce=a1ecce3f841b, datestamp=1604544200 (Nov 05 2020 02:43:20)
+0406.707 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0406.707 (0) Examining (for files) backup set with nonce=2e7a755d7379, datestamp=1603666363 (Oct 25 2020 22:52:43)
+0406.707 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0406.707 (0) Examining (for files) backup set with nonce=10ff99aafb98, datestamp=1603436059 (Oct 23 2020 06:54:19)
+0406.707 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0406.707 (0) Examining (for files) backup set with nonce=448f1bf7a911, datestamp=1603432025 (Oct 23 2020 05:47:05)
+0406.707 (0) This backup set (1603432025) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0406.708 (0) This backup set (1603432025) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0406.708 (0) This backup set (1603432025) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0406.708 (0) This backup set (1603432025) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0406.708 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0406.708 (0) Retain: saving new backup history (sets now: 6) and finishing retain operation
+0406.751 (0) Resume backup (472d84f319e1, 0): finish run
+0406.790 (0) Decremented the semaphore (fd) by 1
+0406.832 (0) Semaphore (fd) unlocked
+0406.845 (0) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0406.909 (0) Rescheduling resumption 1: moving to 100 seconds from now (1604671767)
+0406.939 (0) The backup has not finished; a resumption is scheduled
+0626.201 (1) Opened log file at time: Fri, 06 Nov 2020 14:11:26 +0000 on http://localhost/wordpressTeamAIv2
+0626.287 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.29 WP: 5.5.3 PHP: 7.4.6 (apache2handler, Windows NT DESKTOP-F6U9BMQ 10.0 build 19041 (Windows 10) AMD64) MySQL: 10.4.11-MariaDB WPLANG: en_US Server: Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.4.6 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 52.2M | 6M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0626.358 (1) Free space on disk containing Updraft's temporary directory: 83029.2 MB
+0626.392 (1) Backup run: resumption=1, nonce=472d84f319e1, file_nonce=472d84f319e1 begun at=1604671260 (627s ago), job type=backup, previous check-in=406s
+0626.429 (1) Scheduling a resumption (2) after 437 seconds (1604672324) in case this run gets aborted
+0626.475 (1) Checking if we have a zip executable available
+0626.497 (1) Creation of backups of directories: already finished
+0626.512 (1) Saving backup status to database (elements: 8)
+0626.576 (1) Database dump (WordPress DB): Creation was completed already
+0626.590 (1) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0626.618 (1) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0626.631 (1) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0626.644 (1) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0626.657 (1) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-others.zip: others: This file has already been successfully uploaded
+0626.670 (1) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db.gz: db: This file has already been successfully uploaded
+0626.688 (1) Saving backup history. Total backup size: Unknown
+0626.753 (1) Requesting upload of the files that have not yet been successfully uploaded (3)
+0626.784 (1) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0626.806 (1) Beginning dispatch of backup to remote (googledrive) (instance identifier s-73859e436c9b60cbf18540dae757e7ba)
+0629.043 (1) Google Drive: quota usage: used=269 MB, total=15360 MB, available=15091 MB
+0629.233 (1) Google Drive: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip: Attempting to upload to Google Drive (into folder id: 1ePbYZuhy1fdn33fHUPk7J5GtN-yHkhlN)
+0629.446 (1) Google Drive: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip: upload already began; attempting to resume from byte 2883583
+0689.467 (1) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\wordpressTeamAIv2\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0689.620 (1) An error condition has occurred for the first time during this job
+0690.156 (1) Google Drive: quota usage: used=269 MB, total=15360 MB, available=15091 MB
+0690.303 (1) Google Drive: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-themes.zip: Attempting to upload to Google Drive (into folder id: 1ePbYZuhy1fdn33fHUPk7J5GtN-yHkhlN)
+0690.502 (1) Google Drive: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-themes.zip: upload already began; attempting to resume from byte 6291455
+0691.328 (1) Googledrive chunked upload: 62.6 % uploaded (7340032)
+0692.118 (1) Googledrive chunked upload: 71.5 % uploaded (8388608)
+0752.217 (1) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\wordpressTeamAIv2\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0752.923 (1) Google Drive: quota usage: used=269 MB, total=15360 MB, available=15091 MB
+0753.081 (1) Google Drive: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-uploads.zip: Attempting to upload to Google Drive (into folder id: 1ePbYZuhy1fdn33fHUPk7J5GtN-yHkhlN)
+0753.310 (1) Google Drive: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-uploads.zip: upload already began; attempting to resume from byte 2097151
+0813.341 (1) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\wordpressTeamAIv2\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0813.669 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=5
+0813.737 (1) Number of backup sets in history: 6; groups (db): 1
+0813.812 (1) Examining (for databases) backup set with group_id=0, nonce=472d84f319e1, datestamp=1604671260 (Nov 06 2020 14:01:00)
+0813.887 (1) This backup set is the backup set just made, so will not be deleted.
+0813.887 (1) Examining (for databases) backup set with group_id=0, nonce=9ba7a947d85e, datestamp=1604645641 (Nov 06 2020 06:54:01)
+0813.888 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0813.917 (1) Examining (for databases) backup set with group_id=0, nonce=a1ecce3f841b, datestamp=1604544200 (Nov 05 2020 02:43:20)
+0813.917 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0813.917 (1) Examining (for databases) backup set with group_id=0, nonce=2e7a755d7379, datestamp=1603666363 (Oct 25 2020 22:52:43)
+0813.917 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0813.917 (1) Examining (for databases) backup set with group_id=0, nonce=10ff99aafb98, datestamp=1603436059 (Oct 23 2020 06:54:19)
+0813.917 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0813.918 (1) Examining (for databases) backup set with group_id=0, nonce=448f1bf7a911, datestamp=1603432025 (Oct 23 2020 05:47:05)
+0813.918 (1) This backup set (1603432025) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0813.918 (1) Number of backup sets in history: 6; groups (files): 1
+0813.933 (1) Examining (for files) backup set with nonce=472d84f319e1, datestamp=1604671260 (Nov 06 2020 14:01:00)
+0813.933 (1) This backup set is the backup set just made, so will not be deleted.
+0813.947 (1) This backup set is the backup set just made, so will not be deleted.
+0813.947 (1) This backup set is the backup set just made, so will not be deleted.
+0813.947 (1) This backup set is the backup set just made, so will not be deleted.
+0813.948 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0813.961 (1) Examining (for files) backup set with nonce=9ba7a947d85e, datestamp=1604645641 (Nov 06 2020 06:54:01)
+0813.962 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0813.962 (1) Examining (for files) backup set with nonce=a1ecce3f841b, datestamp=1604544200 (Nov 05 2020 02:43:20)
+0813.962 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0813.962 (1) Examining (for files) backup set with nonce=2e7a755d7379, datestamp=1603666363 (Oct 25 2020 22:52:43)
+0813.962 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0813.962 (1) Examining (for files) backup set with nonce=10ff99aafb98, datestamp=1603436059 (Oct 23 2020 06:54:19)
+0813.962 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0813.962 (1) Examining (for files) backup set with nonce=448f1bf7a911, datestamp=1603432025 (Oct 23 2020 05:47:05)
+0813.962 (1) This backup set (1603432025) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0813.962 (1) This backup set (1603432025) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0813.962 (1) This backup set (1603432025) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0813.962 (1) This backup set (1603432025) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0813.963 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0813.963 (1) Retain: saving new backup history (sets now: 6) and finishing retain operation
+0814.010 (1) Resume backup (472d84f319e1, 1): finish run
+0814.038 (1) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0814.069 (1) The backup has not finished; a resumption is scheduled
+1066.896 (2) Opened log file at time: Fri, 06 Nov 2020 14:18:47 +0000 on http://localhost/wordpressTeamAIv2
+1066.915 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.29 WP: 5.5.3 PHP: 7.4.6 (apache2handler, Windows NT DESKTOP-F6U9BMQ 10.0 build 19041 (Windows 10) AMD64) MySQL: 10.4.11-MariaDB WPLANG: en_US Server: Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.4.6 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 52.2M | 6M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+1066.928 (2) Free space on disk containing Updraft's temporary directory: 83028.6 MB
+1066.988 (2) Backup run: resumption=2, nonce=472d84f319e1, file_nonce=472d84f319e1 begun at=1604671260 (1067s ago), job type=backup, previous check-in=65.9s
+1067.047 (2) Scheduling a resumption (3) after 437 seconds (1604672764) in case this run gets aborted
+1067.083 (2) Checking if we have a zip executable available
+1067.127 (2) Creation of backups of directories: already finished
+1067.141 (2) Saving backup status to database (elements: 8)
+1067.238 (2) Database dump (WordPress DB): Creation was completed already
+1067.252 (2) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+1067.289 (2) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1067.302 (2) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+1067.318 (2) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1067.331 (2) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-others.zip: others: This file has already been successfully uploaded
+1067.351 (2) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db.gz: db: This file has already been successfully uploaded
+1067.365 (2) Saving backup history. Total backup size: Unknown
+1067.397 (2) Requesting upload of the files that have not yet been successfully uploaded (3)
+1067.426 (2) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+1067.440 (2) Beginning dispatch of backup to remote (googledrive) (instance identifier s-73859e436c9b60cbf18540dae757e7ba)
+1069.378 (2) Google Drive: quota usage: used=269 MB, total=15360 MB, available=15091 MB
+1069.415 (2) Google Drive: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip: Attempting to upload to Google Drive (into folder id: 1ePbYZuhy1fdn33fHUPk7J5GtN-yHkhlN)
+1069.712 (2) Google Drive: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip: upload already began; attempting to resume from byte 3932159
+1070.382 (2) Googledrive chunked upload: 15.4 % uploaded (4980736)
+1070.971 (2) Googledrive chunked upload: 18.7 % uploaded (6029312)
+1072.121 (2) Googledrive chunked upload: 21.9 % uploaded (7077888)
+1072.893 (2) Googledrive chunked upload: 25.2 % uploaded (8126464)
+1073.689 (2) Googledrive chunked upload: 28.4 % uploaded (9175040)
+1074.555 (2) Googledrive chunked upload: 31.6 % uploaded (10223616)
+1075.686 (2) Googledrive chunked upload: 34.9 % uploaded (11272192)
+1076.405 (2) Googledrive chunked upload: 38.1 % uploaded (12320768)
+1077.104 (2) Googledrive chunked upload: 41.4 % uploaded (13369344)
+1137.168 (2) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\wordpressTeamAIv2\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1137.336 (2) An error condition has occurred for the first time during this job
+1138.095 (2) Google Drive: quota usage: used=269 MB, total=15360 MB, available=15091 MB
+1138.150 (2) Google Drive: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-themes.zip: Attempting to upload to Google Drive (into folder id: 1ePbYZuhy1fdn33fHUPk7J5GtN-yHkhlN)
+1138.493 (2) Google Drive: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-themes.zip: upload already began; attempting to resume from byte 9175039
+1198.516 (2) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\wordpressTeamAIv2\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1199.052 (2) Google Drive: quota usage: used=269 MB, total=15360 MB, available=15091 MB
+1199.077 (2) Google Drive: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-uploads.zip: Attempting to upload to Google Drive (into folder id: 1ePbYZuhy1fdn33fHUPk7J5GtN-yHkhlN)
+1199.234 (2) Google Drive: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-uploads.zip: upload already began; attempting to resume from byte 2883583
+1259.278 (2) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\wordpressTeamAIv2\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1259.546 (2) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=5
+1259.600 (2) Number of backup sets in history: 6; groups (db): 1
+1259.632 (2) Examining (for databases) backup set with group_id=0, nonce=472d84f319e1, datestamp=1604671260 (Nov 06 2020 14:01:00)
+1259.699 (2) This backup set is the backup set just made, so will not be deleted.
+1259.699 (2) Examining (for databases) backup set with group_id=0, nonce=9ba7a947d85e, datestamp=1604645641 (Nov 06 2020 06:54:01)
+1259.699 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+1259.775 (2) Examining (for databases) backup set with group_id=0, nonce=a1ecce3f841b, datestamp=1604544200 (Nov 05 2020 02:43:20)
+1259.776 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+1259.776 (2) Examining (for databases) backup set with group_id=0, nonce=2e7a755d7379, datestamp=1603666363 (Oct 25 2020 22:52:43)
+1259.776 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+1259.776 (2) Examining (for databases) backup set with group_id=0, nonce=10ff99aafb98, datestamp=1603436059 (Oct 23 2020 06:54:19)
+1259.776 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+1259.777 (2) Examining (for databases) backup set with group_id=0, nonce=448f1bf7a911, datestamp=1603432025 (Oct 23 2020 05:47:05)
+1259.777 (2) This backup set (1603432025) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+1259.777 (2) Number of backup sets in history: 6; groups (files): 1
+1259.799 (2) Examining (for files) backup set with nonce=472d84f319e1, datestamp=1604671260 (Nov 06 2020 14:01:00)
+1259.799 (2) This backup set is the backup set just made, so will not be deleted.
+1259.824 (2) This backup set is the backup set just made, so will not be deleted.
+1259.825 (2) This backup set is the backup set just made, so will not be deleted.
+1259.825 (2) This backup set is the backup set just made, so will not be deleted.
+1259.825 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+1259.844 (2) Examining (for files) backup set with nonce=9ba7a947d85e, datestamp=1604645641 (Nov 06 2020 06:54:01)
+1259.845 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+1259.845 (2) Examining (for files) backup set with nonce=a1ecce3f841b, datestamp=1604544200 (Nov 05 2020 02:43:20)
+1259.845 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+1259.846 (2) Examining (for files) backup set with nonce=2e7a755d7379, datestamp=1603666363 (Oct 25 2020 22:52:43)
+1259.846 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+1259.846 (2) Examining (for files) backup set with nonce=10ff99aafb98, datestamp=1603436059 (Oct 23 2020 06:54:19)
+1259.846 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+1259.847 (2) Examining (for files) backup set with nonce=448f1bf7a911, datestamp=1603432025 (Oct 23 2020 05:47:05)
+1259.847 (2) This backup set (1603432025) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+1259.847 (2) This backup set (1603432025) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+1259.847 (2) This backup set (1603432025) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+1259.847 (2) This backup set (1603432025) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+1259.847 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+1259.847 (2) Retain: saving new backup history (sets now: 6) and finishing retain operation
+1259.926 (2) Resume backup (472d84f319e1, 2): finish run
+1259.957 (2) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1260.034 (2) The backup has not finished; a resumption is scheduled
+1506.571 (3) Opened log file at time: Fri, 06 Nov 2020 14:26:07 +0000 on http://localhost/wordpressTeamAIv2
+1506.593 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.29 WP: 5.5.3 PHP: 7.4.6 (apache2handler, Windows NT DESKTOP-F6U9BMQ 10.0 build 19041 (Windows 10) AMD64) MySQL: 10.4.11-MariaDB WPLANG: en_US Server: Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.4.6 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 52.2M | 6M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+1506.607 (3) Free space on disk containing Updraft's temporary directory: 83045 MB
+1506.653 (3) Backup run: resumption=3, nonce=472d84f319e1, file_nonce=472d84f319e1 begun at=1604671260 (1507s ago), job type=backup, previous check-in=10.2s
+1506.706 (3) Scheduling a resumption (4) after 437 seconds (1604673204) in case this run gets aborted
+1506.758 (3) Checking if we have a zip executable available
+1506.786 (3) Creation of backups of directories: already finished
+1506.812 (3) Saving backup status to database (elements: 8)
+1506.872 (3) Database dump (WordPress DB): Creation was completed already
+1506.885 (3) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+1506.920 (3) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1506.934 (3) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+1506.946 (3) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1506.959 (3) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-others.zip: others: This file has already been successfully uploaded
+1506.984 (3) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db.gz: db: This file has already been successfully uploaded
+1506.998 (3) Saving backup history. Total backup size: Unknown
+1507.036 (3) Requesting upload of the files that have not yet been successfully uploaded (3)
+1507.072 (3) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+1507.096 (3) Beginning dispatch of backup to remote (googledrive) (instance identifier s-73859e436c9b60cbf18540dae757e7ba)
+1509.991 (3) Google Drive: quota usage: used=269 MB, total=15360 MB, available=15091 MB
+1510.157 (3) Google Drive: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip: Attempting to upload to Google Drive (into folder id: 1ePbYZuhy1fdn33fHUPk7J5GtN-yHkhlN)
+1510.339 (3) Google Drive: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip: upload already began; attempting to resume from byte 14417919
+1570.412 (3) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\wordpressTeamAIv2\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1570.566 (3) An error condition has occurred for the first time during this job
+1571.109 (3) Google Drive: quota usage: used=269 MB, total=15360 MB, available=15091 MB
+1571.122 (3) Google Drive: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-themes.zip: Attempting to upload to Google Drive (into folder id: 1ePbYZuhy1fdn33fHUPk7J5GtN-yHkhlN)
+1571.323 (3) Google Drive: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-themes.zip: upload already began; attempting to resume from byte 9961471
+1571.931 (3) Googledrive chunked upload: 93.9 % uploaded (11010048)
+1573.856 (3) Googledrive chunked upload: 100 % uploaded (11010048)
+1573.982 (3) Google Drive: OK: Archive backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-themes.zip uploaded in 2.85 seconds
+1573.996 (3) Recording as successfully uploaded: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-themes.zip
+1574.052 (3) Deleting local file: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-themes.zip: OK
+1574.610 (3) Google Drive: quota usage: used=280.2 MB, total=15360 MB, available=15079.8 MB
+1574.645 (3) Google Drive: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-uploads.zip: Attempting to upload to Google Drive (into folder id: 1ePbYZuhy1fdn33fHUPk7J5GtN-yHkhlN)
+1574.803 (3) Google Drive: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-uploads.zip: upload already began; attempting to resume from byte 3670015
+1634.825 (3) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\wordpressTeamAIv2\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1634.948 (3) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=5
+1634.965 (3) Number of backup sets in history: 6; groups (db): 1
+1634.988 (3) Examining (for databases) backup set with group_id=0, nonce=472d84f319e1, datestamp=1604671260 (Nov 06 2020 14:01:00)
+1635.001 (3) This backup set is the backup set just made, so will not be deleted.
+1635.001 (3) Examining (for databases) backup set with group_id=0, nonce=9ba7a947d85e, datestamp=1604645641 (Nov 06 2020 06:54:01)
+1635.001 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+1635.077 (3) Examining (for databases) backup set with group_id=0, nonce=a1ecce3f841b, datestamp=1604544200 (Nov 05 2020 02:43:20)
+1635.077 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+1635.078 (3) Examining (for databases) backup set with group_id=0, nonce=2e7a755d7379, datestamp=1603666363 (Oct 25 2020 22:52:43)
+1635.078 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+1635.078 (3) Examining (for databases) backup set with group_id=0, nonce=10ff99aafb98, datestamp=1603436059 (Oct 23 2020 06:54:19)
+1635.078 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+1635.078 (3) Examining (for databases) backup set with group_id=0, nonce=448f1bf7a911, datestamp=1603432025 (Oct 23 2020 05:47:05)
+1635.078 (3) This backup set (1603432025) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+1635.078 (3) Number of backup sets in history: 6; groups (files): 1
+1635.105 (3) Examining (for files) backup set with nonce=472d84f319e1, datestamp=1604671260 (Nov 06 2020 14:01:00)
+1635.106 (3) This backup set is the backup set just made, so will not be deleted.
+1635.129 (3) This backup set is the backup set just made, so will not be deleted.
+1635.129 (3) This backup set is the backup set just made, so will not be deleted.
+1635.129 (3) This backup set is the backup set just made, so will not be deleted.
+1635.129 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+1635.150 (3) Examining (for files) backup set with nonce=9ba7a947d85e, datestamp=1604645641 (Nov 06 2020 06:54:01)
+1635.150 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+1635.150 (3) Examining (for files) backup set with nonce=a1ecce3f841b, datestamp=1604544200 (Nov 05 2020 02:43:20)
+1635.150 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+1635.150 (3) Examining (for files) backup set with nonce=2e7a755d7379, datestamp=1603666363 (Oct 25 2020 22:52:43)
+1635.150 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+1635.151 (3) Examining (for files) backup set with nonce=10ff99aafb98, datestamp=1603436059 (Oct 23 2020 06:54:19)
+1635.151 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+1635.151 (3) Examining (for files) backup set with nonce=448f1bf7a911, datestamp=1603432025 (Oct 23 2020 05:47:05)
+1635.151 (3) This backup set (1603432025) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+1635.151 (3) This backup set (1603432025) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+1635.151 (3) This backup set (1603432025) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+1635.151 (3) This backup set (1603432025) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+1635.151 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+1635.151 (3) Retain: saving new backup history (sets now: 6) and finishing retain operation
+1635.178 (3) Resume backup (472d84f319e1, 3): finish run
+1635.204 (3) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1635.231 (3) The backup has not finished; a resumption is scheduled
+1944.989 (4) Opened log file at time: Fri, 06 Nov 2020 14:33:25 +0000 on http://localhost/wordpressTeamAIv2
+1945.002 (4) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.29 WP: 5.5.3 PHP: 7.4.6 (apache2handler, Windows NT DESKTOP-F6U9BMQ 10.0 build 19041 (Windows 10) AMD64) MySQL: 10.4.11-MariaDB WPLANG: en_US Server: Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.4.6 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 52.2M | 6M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+1945.038 (4) Free space on disk containing Updraft's temporary directory: 83056.8 MB
+1945.080 (4) Backup run: resumption=4, nonce=472d84f319e1, file_nonce=472d84f319e1 begun at=1604671260 (1945s ago), job type=backup, previous check-in=67.2s
+1945.196 (4) Scheduling a resumption (5) after 437 seconds (1604673642) in case this run gets aborted
+1945.263 (4) Checking if we have a zip executable available
+1945.298 (4) Creation of backups of directories: already finished
+1945.323 (4) Saving backup status to database (elements: 8)
+1945.421 (4) Database dump (WordPress DB): Creation was completed already
+1945.434 (4) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+1945.534 (4) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1945.568 (4) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-themes.zip: themes: This file has already been successfully uploaded
+1945.587 (4) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1945.603 (4) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-others.zip: others: This file has already been successfully uploaded
+1945.626 (4) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db.gz: db: This file has already been successfully uploaded
+1945.641 (4) Saving backup history. Total backup size: Unknown
+1945.678 (4) Requesting upload of the files that have not yet been successfully uploaded (2)
+1945.718 (4) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+1945.732 (4) Beginning dispatch of backup to remote (googledrive) (instance identifier s-73859e436c9b60cbf18540dae757e7ba)
+1947.679 (4) Google Drive: quota usage: used=280.2 MB, total=15360 MB, available=15079.8 MB
+1947.704 (4) Google Drive: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip: Attempting to upload to Google Drive (into folder id: 1ePbYZuhy1fdn33fHUPk7J5GtN-yHkhlN)
+1947.909 (4) Google Drive: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip: upload already began; attempting to resume from byte 15204351
+2007.950 (4) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\wordpressTeamAIv2\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2007.974 (4) An error condition has occurred for the first time during this job
+2008.455 (4) Google Drive: quota usage: used=280.2 MB, total=15360 MB, available=15079.8 MB
+2008.507 (4) Google Drive: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-uploads.zip: Attempting to upload to Google Drive (into folder id: 1ePbYZuhy1fdn33fHUPk7J5GtN-yHkhlN)
+2008.861 (4) Google Drive: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-uploads.zip: upload already began; attempting to resume from byte 4456447
+2068.899 (4) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\wordpressTeamAIv2\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2069.122 (4) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=5
+2069.152 (4) Number of backup sets in history: 6; groups (db): 1
+2069.244 (4) Examining (for databases) backup set with group_id=0, nonce=472d84f319e1, datestamp=1604671260 (Nov 06 2020 14:01:00)
+2069.259 (4) This backup set is the backup set just made, so will not be deleted.
+2069.259 (4) Examining (for databases) backup set with group_id=0, nonce=9ba7a947d85e, datestamp=1604645641 (Nov 06 2020 06:54:01)
+2069.259 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+2069.274 (4) Examining (for databases) backup set with group_id=0, nonce=a1ecce3f841b, datestamp=1604544200 (Nov 05 2020 02:43:20)
+2069.275 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+2069.275 (4) Examining (for databases) backup set with group_id=0, nonce=2e7a755d7379, datestamp=1603666363 (Oct 25 2020 22:52:43)
+2069.275 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+2069.275 (4) Examining (for databases) backup set with group_id=0, nonce=10ff99aafb98, datestamp=1603436059 (Oct 23 2020 06:54:19)
+2069.275 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+2069.276 (4) Examining (for databases) backup set with group_id=0, nonce=448f1bf7a911, datestamp=1603432025 (Oct 23 2020 05:47:05)
+2069.276 (4) This backup set (1603432025) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+2069.276 (4) Number of backup sets in history: 6; groups (files): 1
+2069.324 (4) Examining (for files) backup set with nonce=472d84f319e1, datestamp=1604671260 (Nov 06 2020 14:01:00)
+2069.324 (4) This backup set is the backup set just made, so will not be deleted.
+2069.339 (4) This backup set is the backup set just made, so will not be deleted.
+2069.339 (4) This backup set is the backup set just made, so will not be deleted.
+2069.340 (4) This backup set is the backup set just made, so will not be deleted.
+2069.340 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+2069.355 (4) Examining (for files) backup set with nonce=9ba7a947d85e, datestamp=1604645641 (Nov 06 2020 06:54:01)
+2069.356 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+2069.356 (4) Examining (for files) backup set with nonce=a1ecce3f841b, datestamp=1604544200 (Nov 05 2020 02:43:20)
+2069.356 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+2069.356 (4) Examining (for files) backup set with nonce=2e7a755d7379, datestamp=1603666363 (Oct 25 2020 22:52:43)
+2069.356 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+2069.357 (4) Examining (for files) backup set with nonce=10ff99aafb98, datestamp=1603436059 (Oct 23 2020 06:54:19)
+2069.357 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+2069.357 (4) Examining (for files) backup set with nonce=448f1bf7a911, datestamp=1603432025 (Oct 23 2020 05:47:05)
+2069.357 (4) This backup set (1603432025) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+2069.357 (4) This backup set (1603432025) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+2069.357 (4) This backup set (1603432025) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+2069.357 (4) This backup set (1603432025) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+2069.357 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+2069.358 (4) Retain: saving new backup history (sets now: 6) and finishing retain operation
+2069.432 (4) Resume backup (472d84f319e1, 4): finish run
+2069.447 (4) There were errors in the uploads, so the 'resume' event is remaining scheduled
+2069.481 (4) The backup has not finished; a resumption is scheduled
+2386.726 (5) Opened log file at time: Fri, 06 Nov 2020 14:40:47 +0000 on http://localhost/wordpressTeamAIv2
+2386.769 (5) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.29 WP: 5.5.3 PHP: 7.4.6 (apache2handler, Windows NT DESKTOP-F6U9BMQ 10.0 build 19041 (Windows 10) AMD64) MySQL: 10.4.11-MariaDB WPLANG: en_US Server: Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.4.6 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 52.1M | 6M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+2386.790 (5) Free space on disk containing Updraft's temporary directory: 83055.5 MB
+2386.828 (5) Backup run: resumption=5, nonce=472d84f319e1, file_nonce=472d84f319e1 begun at=1604671260 (2387s ago), job type=backup
+2386.863 (5) Scheduling a resumption (6) after 437 seconds (1604674084) in case this run gets aborted
+2386.898 (5) Checking if we have a zip executable available
+2386.937 (5) Creation of backups of directories: already finished
+2386.950 (5) Saving backup status to database (elements: 8)
+2386.987 (5) Database dump (WordPress DB): Creation was completed already
+2387.000 (5) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+2387.040 (5) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+2387.052 (5) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-themes.zip: themes: This file has already been successfully uploaded
+2387.065 (5) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+2387.102 (5) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-others.zip: others: This file has already been successfully uploaded
+2387.115 (5) backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-db.gz: db: This file has already been successfully uploaded
+2387.127 (5) Saving backup history. Total backup size: Unknown
+2387.185 (5) Requesting upload of the files that have not yet been successfully uploaded (2)
+2387.217 (5) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+2387.230 (5) Beginning dispatch of backup to remote (googledrive) (instance identifier s-73859e436c9b60cbf18540dae757e7ba)
+2389.282 (5) Google Drive: quota usage: used=280.2 MB, total=15360 MB, available=15079.8 MB
+2389.951 (5) Google Drive: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip: Attempting to upload to Google Drive (into folder id: 1ePbYZuhy1fdn33fHUPk7J5GtN-yHkhlN)
+2390.571 (5) Google Drive: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-plugins.zip: upload already began; attempting to resume from byte 15990783
+2396.314 (5) Googledrive chunked upload: 52.7 % uploaded (17039360)
+2456.399 (5) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\wordpressTeamAIv2\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2458.182 (5) An error condition has occurred for the first time during this job
+2458.801 (5) Google Drive: quota usage: used=280.2 MB, total=15360 MB, available=15079.8 MB
+2458.853 (5) Google Drive: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-uploads.zip: Attempting to upload to Google Drive (into folder id: 1ePbYZuhy1fdn33fHUPk7J5GtN-yHkhlN)
+2459.395 (5) Google Drive: backup_2020-11-06-1401_wordpressTeamAIv2_472d84f319e1-uploads.zip: upload already began; attempting to resume from byte 5242879
+2519.416 (5) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\wordpressTeamAIv2\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2519.461 (5) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=5
+2519.489 (5) Number of backup sets in history: 6; groups (db): 1
+2519.502 (5) Examining (for databases) backup set with group_id=0, nonce=472d84f319e1, datestamp=1604671260 (Nov 06 2020 14:01:00)
+2519.516 (5) This backup set is the backup set just made, so will not be deleted.
+2519.516 (5) Examining (for databases) backup set with group_id=0, nonce=9ba7a947d85e, datestamp=1604645641 (Nov 06 2020 06:54:01)
+2519.516 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+2519.545 (5) Examining (for databases) backup set with group_id=0, nonce=a1ecce3f841b, datestamp=1604544200 (Nov 05 2020 02:43:20)
+2519.545 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+2519.545 (5) Examining (for databases) backup set with group_id=0, nonce=2e7a755d7379, datestamp=1603666363 (Oct 25 2020 22:52:43)
+2519.545 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+2519.545 (5) Examining (for databases) backup set with group_id=0, nonce=10ff99aafb98, datestamp=1603436059 (Oct 23 2020 06:54:19)
+2519.545 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+2519.545 (5) Examining (for databases) backup set with group_id=0, nonce=448f1bf7a911, datestamp=1603432025 (Oct 23 2020 05:47:05)
+2519.545 (5) This backup set (1603432025) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+2519.545 (5) Number of backup sets in history: 6; groups (files): 1
+2519.570 (5) Examining (for files) backup set with nonce=472d84f319e1, datestamp=1604671260 (Nov 06 2020 14:01:00)
+2519.570 (5) This backup set is the backup set just made, so will not be deleted.
+2519.583 (5) This backup set is the backup set just made, so will not be deleted.
+2519.583 (5) This backup set is the backup set just made, so will not be deleted.
+2519.583 (5) This backup set is the backup set just made, so will not be deleted.
+2519.583 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+2519.596 (5) Examining (for files) backup set with nonce=9ba7a947d85e, datestamp=1604645641 (Nov 06 2020 06:54:01)
+2519.597 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+2519.597 (5) Examining (for files) backup set with nonce=a1ecce3f841b, datestamp=1604544200 (Nov 05 2020 02:43:20)
+2519.597 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+2519.597 (5) Examining (for files) backup set with nonce=2e7a755d7379, datestamp=1603666363 (Oct 25 2020 22:52:43)
+2519.597 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+2519.597 (5) Examining (for files) backup set with nonce=10ff99aafb98, datestamp=1603436059 (Oct 23 2020 06:54:19)
+2519.597 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+2519.597 (5) Examining (for files) backup set with nonce=448f1bf7a911, datestamp=1603432025 (Oct 23 2020 05:47:05)
+2519.597 (5) This backup set (1603432025) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+2519.597 (5) This backup set (1603432025) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+2519.597 (5) This backup set (1603432025) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+2519.597 (5) This backup set (1603432025) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+2519.597 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+2519.597 (5) Retain: saving new backup history (sets now: 6) and finishing retain operation
+2519.657 (5) Resume backup (472d84f319e1, 5): finish run
+2519.671 (5) There were errors in the uploads, so the 'resume' event is remaining scheduled
+2519.748 (5) The backup has not finished; a resumption is scheduled
+224399.261 (6) Opened log file at time: Mon, 09 Nov 2020 04:20:59 +0000 on http://localhost/wordpressTeamAIv2
+224399.338 (6) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.29 WP: 5.5.3 PHP: 7.4.6 (apache2handler, Windows NT DESKTOP-F6U9BMQ 10.0 build 19041 (Windows 10) AMD64) MySQL: 10.4.11-MariaDB WPLANG: en_US Server: Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.4.6 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 52.1M | 54M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+224399.373 (6) Free space on disk containing Updraft's temporary directory: 82917.9 MB
+224399.414 (6) This backup task (472d84f319e1) is either complete or began over 2 days ago: ending (1604895659.8612, 1604671260) (existing jobdata keys: resume_interval, job_type, jobstatus, backup_time, job_time_ms, service, split_every, maxzipbatch, job_file_entities, option_cache, uploaded_lastreset, one_shot, followsups_allowed, backup_database, backup_files, always_keep, remote_storage_instances, runs_started, current_resumption, binzip, filecreating_substatus, files_enumerated_at, warnings, run_times, useful_checkin, sha1-plugins0, sha256-plugins0, sha1-themes0, sha256-themes0, sha1-uploads0, sha256-uploads0, sha1-others0, sha256-others0, backup_files_array, binsqldump, dbcreating_substatus, sha1-db0, sha256-db0, uploading_substatus, googledrive-s-73859e436c9b60cbf18540dae757e7ba, uploaded_9cb37a407231bc08e879f492f7766db6, uploaded_googledrive-s-73859e436c9b60cbf18540dae757e7ba-9cb37a407231bc08e879f492f7766db6, uploaded_a124a543e318693c3c2df53b25a38a54, uploaded_googledrive-s-73859e436c9b60cbf18540dae757e7ba-a124a543e318693c3c2df53b25a38a54, prune, uploaded_31d7bfcb2d2562960cf4df37225a3f6f, uploaded_googledrive-s-73859e436c9b60cbf18540dae757e7ba-31d7bfcb2d2562960cf4df37225a3f6f)

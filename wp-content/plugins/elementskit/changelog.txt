@@ -1,0 +1,10 @@
+== Changelog ==
+
+Version: 2.0.0
+New: New Unfold widget added.
+Fix: Google Map API Script is enqueueing even it's not enabled.
+Fix: Facebook Review Broken issue.
+Fix: HeaderFooter builder compatiblity.
+Added: Pagination to Blog Posts.
+Added: Import & export system for WidgetBuilder module.
+Added: New features: "dribble-feed, facebook-feed, facebook-review, instagram-feed, twitter-feed, trustpilot, unfold, yelp, zoom"
